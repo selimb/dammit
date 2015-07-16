@@ -2,7 +2,7 @@
 
 > Used to express anger, irritation, contempt, or disappointment.
 
-**dammit** is a Windows command-line utility to kill those pesky processes that are locking a file you want to delete.
+Dammit Windows let me delete that file.
 
 ![](docs/video.gif)
 

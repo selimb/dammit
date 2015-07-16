@@ -1,4 +1,4 @@
-"""Dammit let me delete this file!
+"""Dammit Windows let me delete that file!
 
 Usage:
   dammit [-y | -s] [--verbose] <name>
